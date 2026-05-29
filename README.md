@@ -12,13 +12,9 @@ who hit requests to endpoints.
 ---
 
 ## Architecture
-<p>
-  <img src="https://drive.google.com/uc?export=view&id=1lEf8gneHm9yhE5HQ1VXZnqgLs56sbgyL" alt="elements interaction"/>
-  <img src="https://drive.google.com/uc?export=view&id=1dDMrR6f8MeXRe4p2I-ubQ-SvXf7Z-g-u" alt="user flow">
-  <img src="https://drive.google.com/uc?id=1dDMrR6f8MeXRe4p2I-ubQ-SvXf7Z-g-u" alt="user flow">
-</p>
+![Framework Elements Interaction](https://drive.google.com/uc?export=view&id=1lEf8gneHm9yhE5HQ1VXZnqgLs56sbgyL)
 
-![Example](https://drive.google.com/uc?id=1dDMrR6f8MeXRe4p2I-ubQ-SvXf7Z-g-u)
+![User Flow](https://drive.google.com/uc?id=1dDMrR6f8MeXRe4p2I-ubQ-SvXf7Z-g-u)
 
 ## Stack
 * [poetry](https://python-poetry.org/) - Python project manager
